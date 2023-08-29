@@ -1,0 +1,43 @@
+#: locale=es
+
+## Media
+
+### Subtítulos de Video
+
+### Título
+panorama_382B1A43_2804_F943_41A9_42E6C56EC5E6.label = Cena 1
+panorama_3B65EE59_2804_594F_41A0_52527B971379.label = Cena 2
+panorama_382A710A_2804_48CD_41C1_7465B09FDEF7.label = Cena 3
+panorama_382A03FC_2804_4F45_4188_BA8445830854.label = Cena 4
+panorama_382A36FF_2804_C943_41C4_2B1D7C56FD58.label = Cena 5
+panorama_30DF9617_2804_C8C3_41BF_A4BB3A7F3E4C.label = Corporativa 1
+panorama_3FD8689B_2804_F9C3_41BC_4CA491F5F2EB.label = Corporativa 2
+panorama_3FD1EB4A_2804_DF4D_41B7_6158D5D35696.label = Corporativa 3
+panorama_3FD3FEC0_2804_B9BD_41C3_339C2D7BE707.label = Corporativa 4
+panorama_3FD51183_2804_4BC3_41C2_9E8BC4EA7C96.label = Corporativa 5
+video_553BD06A_418B_4CB5_41C8_9197A310A9FE.label = Herramientas General
+panorama_23BE5F1A_2D70_891D_41B8_C49768128A70.label = Sin muebles 1
+panorama_23219405_2D70_FEF6_41C5_5E0234BB4EA3.label = Sin muebles 2
+panorama_232E6AAF_2D70_8B32_41A8_41606257460A.label = Sin muebles 3
+panorama_232E105C_2D70_9716_41BF_0FEC9D40B1F5.label = Sin muebles 4
+panorama_232DF381_2D73_79EE_41BF_58F48D8A1EA8.label = Sin muebles 5
+video_528606BB_418B_558B_41A1_A33949699FDD.label = Videos Bolivar C B
+
+### Video
+videolevel_580F8F1D_418D_D48E_4174_2232F8EE23FD.url = media/video_528606BB_418B_558B_41A1_A33949699FDD_es.mp4
+videolevel_580F8F1D_418D_D48E_4174_2232F8EE23FD.posterURL = media/video_528606BB_418B_558B_41A1_A33949699FDD_poster_es.jpg
+videolevel_580A8EDF_418D_D58B_41BF_CDF78255DFB1.url = media/video_553BD06A_418B_4CB5_41C8_9197A310A9FE_es.mp4
+videolevel_580A8EDF_418D_D58B_41BF_CDF78255DFB1.posterURL = media/video_553BD06A_418B_4CB5_41C8_9197A310A9FE_poster_es.jpg
+
+## Skin
+
+### Etiqueta
+Label_0A5C65D9_16A5_98B3_41B4_573FE3033A1F.text = Salon de Eventos
+Label_0A5C65D9_16A5_98B3_41B4_573FE3033A1F_mobile.text = Salon de Eventos
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 4
